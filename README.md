@@ -14,6 +14,6 @@
 
 
 ## ✨Atenção
-> Não esqueça de usar instalar o Node Modules antes de iniciar a aplicação.<br>
+> Não esqueça de instalar a dependência "Node Modules" antes de iniciar a aplicação.<br>
 yarn start ou npm start
 
