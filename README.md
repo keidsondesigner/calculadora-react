@@ -10,6 +10,6 @@
 
 
 ## ✨Atenção
-> Não esqueça de usar instalar o Node Modules antes de iniciar a aplicação.
+> Não esqueça de usar instalar o Node Modules antes de iniciar a aplicação.<br>
 yarn start ou npm start
 
