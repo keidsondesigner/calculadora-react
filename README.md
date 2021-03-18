@@ -4,10 +4,10 @@
 
 ## ☕ Tecnologias Usadas
 
-[![HTML](https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html&logoColor=black&color=FF8000)](#)
-[![CSS](https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=black&color=2E64FE)](#)
-[![JAVASCRIPT](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=black&color=FFFF00)](#)
-[![REACT](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=black&color=FFFF00](#)
+[![REACT](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=black&color=00ddff)](#)
+[![JAVASCRIPT](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=FFFF00)](#)
+[![CSS](https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=black&color=2E64FE)](#)
+
 
 
 
