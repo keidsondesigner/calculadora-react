@@ -1,5 +1,5 @@
 # 📱 Calculador em React.
-> Aplicação desenvolvida no Curos Web Moderno da @Cod3r <br>
+> Aplicação desenvolvida no Curso Web Moderno da @Cod3r <br>
 > Esse repositório tem como objetivo principal de apresentar meus estudos e aplicar em projetos pessoias.
 
 ## ☕ Tecnologias Usadas
